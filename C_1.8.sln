@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C_1.8", "C_1.8\C_1.8.vcxproj", "{FAC7D806-3885-48E1-B8BA-18261ECFBDBB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C_1.8.3定义main函数", "C_1.8.3定义main函数\C_1.8.3定义main函数.vcxproj", "{04464336-05C4-42D7-ACCB-E81A783E3166}"
@@ -14,6 +16,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3条件判断", "3条件判断\3条件判断.vcxproj", "{34135852-7AAE-4FEF-A570-BD097752AC2D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4循环", "4循环\4循环.vcxproj", "{31CB5717-3EFE-4F09-9A44-C4023DFF6774}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5数组", "5数组\5数组.vcxproj", "{3F193603-16EB-4A2B-8E05-F238D9868399}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6字符串与文本", "6字符串与文本\6字符串与文本.vcxproj", "{AB65D8B5-D3AC-4943-BDF8-4F79E55FCC50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7指针", "7指针\7指针.vcxproj", "{7531F002-D524-4294-8AAA-CAB679C11634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +57,18 @@ Global
 		{31CB5717-3EFE-4F09-9A44-C4023DFF6774}.Debug|Win32.Build.0 = Debug|Win32
 		{31CB5717-3EFE-4F09-9A44-C4023DFF6774}.Release|Win32.ActiveCfg = Release|Win32
 		{31CB5717-3EFE-4F09-9A44-C4023DFF6774}.Release|Win32.Build.0 = Release|Win32
+		{3F193603-16EB-4A2B-8E05-F238D9868399}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F193603-16EB-4A2B-8E05-F238D9868399}.Debug|Win32.Build.0 = Debug|Win32
+		{3F193603-16EB-4A2B-8E05-F238D9868399}.Release|Win32.ActiveCfg = Release|Win32
+		{3F193603-16EB-4A2B-8E05-F238D9868399}.Release|Win32.Build.0 = Release|Win32
+		{AB65D8B5-D3AC-4943-BDF8-4F79E55FCC50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB65D8B5-D3AC-4943-BDF8-4F79E55FCC50}.Debug|Win32.Build.0 = Debug|Win32
+		{AB65D8B5-D3AC-4943-BDF8-4F79E55FCC50}.Release|Win32.ActiveCfg = Release|Win32
+		{AB65D8B5-D3AC-4943-BDF8-4F79E55FCC50}.Release|Win32.Build.0 = Release|Win32
+		{7531F002-D524-4294-8AAA-CAB679C11634}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7531F002-D524-4294-8AAA-CAB679C11634}.Debug|Win32.Build.0 = Debug|Win32
+		{7531F002-D524-4294-8AAA-CAB679C11634}.Release|Win32.ActiveCfg = Release|Win32
+		{7531F002-D524-4294-8AAA-CAB679C11634}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
